@@ -146,6 +146,7 @@ th, td {
 		#my_family_container{
 			display: flex;
 			flex-wrap: wrap;
+			flex:100%
 		}
 
 		.member{
@@ -153,7 +154,7 @@ th, td {
 		}
 	}
 
-@media (max-width: 800px)
+@media (max-width: 1200px)
 	{
 		{
 		#left_side{
@@ -168,6 +169,7 @@ th, td {
 		#flex_container{
 			display: flex;
 			flex-wrap: wrap;
+			flex:100%
 		}
 
 
