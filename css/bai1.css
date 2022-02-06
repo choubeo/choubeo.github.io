@@ -128,7 +128,7 @@ th, td {
 	margin: 0px 10px 20px 10px;
 }
 
-@media (max-width: 1200px)
+@media (max-width: 800px)
 	{
 		#left_side{
 			flex:100%;
@@ -154,7 +154,7 @@ th, td {
 		}
 	}
 
-@media (max-width: 1200px)
+@media (max-width: 800px)
 	{
 		{
 		#left_side{
