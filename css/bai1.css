@@ -143,6 +143,10 @@ th, td {
 			display: flex;
 			flex-wrap: wrap;
 		}
+		#my_family_container{
+			display: flex;
+			flex-wrap: wrap;
+		}
 
 		.member{
 			flex:100%;
