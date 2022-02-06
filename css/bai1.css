@@ -151,15 +151,7 @@ th, td {
 
 @media (max-width: 500px)
 	{
-		{
-		#left_side{
-			flex:100%;
-
-		}
-
-		#right_side{
-			flex:100%;
-		}
+		
 
 		#flex_container{
 			display: flex;
